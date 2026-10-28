@@ -9,5 +9,6 @@ __pycache__/
 .idea/
 .vscode/
 .ipynb_checkpoints/
+data/
 DeepLearning/dl_tutorial/data/fashion-mnist_train.csv
 DeepLearning/dl_tutorial/data/train.csv                  
