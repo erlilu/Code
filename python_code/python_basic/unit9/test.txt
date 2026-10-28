@@ -1,0 +1,2 @@
+hi
+I will use flush function

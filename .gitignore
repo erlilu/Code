@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+.ipynb_checkpoints/
+DeepLearning/dl_tutorial/data/fashion-mnist_train.csv
+DeepLearning/dl_tutorial/data/train.csv                  
